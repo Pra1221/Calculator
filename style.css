@@ -28,6 +28,7 @@ h1{
 }
 .container{
     border: 5px solid black;
+    background-color:rgb(17, 59, 59) ;
     border-radius: 10px;
     width: 300px;
 
